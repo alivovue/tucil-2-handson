@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "tucil 2 gim.sln"
+    "dotnet.defaultSolution": "tucil-2-handson.sln"
 }
